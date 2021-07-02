@@ -4,5 +4,5 @@
 
 Dashboard de gestão financeira pessoal, construído em Power BI.
 
-<img src="https://i.imgur.com/jtNd4FV_d.webp?maxwidth=760&fidelity=grand">
+<img src="https://i.ibb.co/L9q0ZyG/image.png">
 
